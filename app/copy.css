@@ -1,0 +1,21 @@
+--background: 190, 194, 193;
+--foreground: rgb(190, 194, 193); /* cor dos textos e icons */
+--card: 356 50% 100%;
+--card-foreground: 356 5% 15%;
+--popover: 356 100% 100%;
+--popover-foreground: 356 100% 10%;
+--primary: rgb(255, 1, 2); /* cor do button */
+--primary-foreground:rgb(190, 194, 193); /* cor dos icons do butão */
+--secondary: 356 30% 90%;
+--secondary-foreground: 0 0% 0%;
+--muted: 318 30% 95%;
+--muted-foreground: rgb(190, 194, 193); /*placeholder */
+--accent: 318 30% 90%;
+--accent-foreground: 356 5% 15%;
+--destructive: 0 100% 50%;
+--destructive-foreground: 356 5% 100%;
+--border: 356 30% 82%;
+--input: rgb(255, 1, 2); /* borda input*/
+--ring: rgb(255, 1, 2); /* focus */
+
+--radius: 0.75rem; /* borda do input */
