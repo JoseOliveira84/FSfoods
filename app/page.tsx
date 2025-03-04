@@ -1,9 +1,5 @@
-const home = () => {
-  return (
-    <div>
-      <h1>Hello twind</h1>
-    </div>
-  );
+import Header from "./_components/Header/Header";
+const Home = () => {
+  return <Header />;
 };
-
-export default home;
+export default Home;
